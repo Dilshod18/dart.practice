@@ -1,5 +1,7 @@
-import 'package:dart_practice/calculate.dart' as calc;
+import 'package:dart_practice/stringfunc.dart' as str_func;
 
 void main(List<String> arguments) {
-  print(calc.kvadrat(60));
+  print(str_func.tripleName("Dilshod"));
 }
+
+
