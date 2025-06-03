@@ -1,2 +1,2 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# HI DEAR USERS #
+it is dart practice lesson and it's first time i'm trying to learn dart and git in one time 
